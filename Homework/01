@@ -1,1 +1,30 @@
+# Programming Assignment 1: Rectangle Calculator
 
+## Objective
+
+The goal of this assignment is to practice basic programming concepts by creating a program that calculates the perimeter and area of a rectangle. You will need to write a program that prompts the user to input the length and width of a rectangle and then displays the calculated perimeter and area. This assignment is worth **5 points**.
+
+## Instructions
+
+1.  Mimic the code presented in the PowerPoint slides from the lecture.
+2.  Your program should ask the user for two pieces of information:
+      * The length of the rectangle.
+      * The width of the rectangle.
+3.  Store the user's input in appropriate variables.
+4.  Calculate the **perimeter** of the rectangle using the formula: $$2 \times (length + width)$$5.  Calculate the **area** of the rectangle using the formula:$$length \times width$$
+5.  Display the calculated perimeter and area to the user in a clear and easy-to-read format.
+
+## Example Output
+
+Here is an example of what your program's output should look like:
+
+```
+Please enter the length of the rectangle: 10
+Please enter the width of the rectangle: 5
+The perimeter of the rectangle is: 30
+The area of the rectangle is: 50
+```
+
+-----
+
+*Note: Pay close attention to the syntax and structure shown in the lecture slides to ensure your code is correct.*
